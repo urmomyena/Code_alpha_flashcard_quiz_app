@@ -23,3 +23,16 @@ Welcome to the Flashcard Quiz App — a sleek and minimalistic web application d
 
 📝 No installations, no dependencies — just open and go!
 
+📸 **Screenshots:**
+
+![animations](https://github.com/user-attachments/assets/aad57fd5-c46d-40ae-9b66-be137a2596dc)
+
+![flashcards](https://github.com/user-attachments/assets/c3051669-8756-41c7-981b-0de2916a88a9)
+
+![home](https://github.com/user-attachments/assets/53ee9077-8548-41db-b458-aecb43cec7f0)
+
+
+
+
+
+
